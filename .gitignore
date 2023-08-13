@@ -1,0 +1,9 @@
+__pycache__/*
+*.png
+.tsenv
+*.log
+*.avi
+*.pyc
+reports
+*.css
+.mobenv
